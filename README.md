@@ -36,4 +36,4 @@ Major features:
 - Tree shaking, [minification](https://esbuild.github.io/api/#minify), and [source maps](https://esbuild.github.io/api/#sourcemap)
 - [Local server](https://esbuild.github.io/api/#serve), [watch mode](https://esbuild.github.io/api/#watch), and [plugins](https://esbuild.github.io/plugins/)
 
-Check out the [getting started](https://esbuild.github.io/getting-started/) instructions if you want to give esbuild a try.
+Check out the [getting started](https://esbuild.github.io/getting-started/) instructions if you 
